@@ -1,0 +1,7 @@
+Relection on Copilot's use on this project
+
+Copilot generated the rough draft for several functions used in the porject. Primarily, convert_to_numerics() and remove_data_entry_errors(). Copilot generated the convert_to_numerics after I began to write a partial code, the purpose of this was so the code didn't fail when it would encounter a non-numeric value. It was the same concept with the remove_data_entry_errors(), as I had begun to write the code, and then it suggested to fill in the rest, although, I ended up going back to modify it.
+
+The main reason I modified several suggestions from CoPilot is that it was unecesarilly creating several lines of code. For the remove_data_entry_errors() function, it automatically created 3 lines of code. I shortened this down as I am aware it could all be put into one line of code whilst still looking neat. That being said, it still was accurate, as all it took was mashing the lines together to create the functioning line of code, therefore it was still very useful. 
+
+Through this project, I learned that CoPilot can be an extremely helpful tool. That being said, it is important to double check what it is suggesting and seeing if it is creating any unecesarry fuss. I noticed that all the suggestions were clearly a similar style of code, for me, I don't think Copilot was adapting to my style of code. I am not sure if this is supposed to be one of it's features or not to be honest. Overall, I believe if I have more experience with Copilot, it will grow to be something I love.
